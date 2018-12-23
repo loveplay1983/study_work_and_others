@@ -1,0 +1,7 @@
+1. ip addr: 192.10.206.68:8090
+2. google chrome42.0.xxxx -> config (chrome://flags -find NPAPI)
+3. administratration  - 10000(111111)
+4. services.msc /s -> eRadVIRPMonitor eRadVIRPServices
+
+5.server login administrator jrjspt
+  sql login sa pacs..sa

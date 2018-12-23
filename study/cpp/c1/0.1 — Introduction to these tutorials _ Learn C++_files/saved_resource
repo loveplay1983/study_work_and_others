@@ -1,0 +1,16 @@
+/**/ WPCOMSharing.update_facebook_count({
+   "https://www.learncpp.com/cpp-tutorial/introduction-to-these-tutorials/": {
+      "share": {
+         "comment_count": 0,
+         "share_count": 2
+      },
+      "og_object": {
+         "id": "1827899057324014",
+         "description": "Welcome to the Learn C++ tutorials! Above all else, these tutorials aim to make learning C++ easy. Unlike many other sites and books, these tutorials don\u2019t assume you have any prior programmi\u2026",
+         "title": "0.1 \u2014 Introduction to these tutorials",
+         "type": "article",
+         "updated_time": "2018-12-03T13:58:04+0000"
+      },
+      "id": "https://www.learncpp.com/cpp-tutorial/introduction-to-these-tutorials/"
+   }
+});
